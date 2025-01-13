@@ -6,7 +6,6 @@
     --dark: #04000B;
 }
 
-
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -29,7 +28,6 @@
     z-index: 99;
 }
 
-
 /*** Heading ***/
 h1,
 h2,
@@ -48,7 +46,6 @@ h6,
 .fw-medium {
     font-weight: 500 !important;
 }
-
 
 /*** Button ***/
 .btn {
